@@ -1,0 +1,26 @@
+{
+  "name": "psquare",
+  "version": "1.0.0",
+  "description": "Perfect squares calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PoeticBliss/psquare.git"
+  },
+  "keywords": [
+    "\"perfect",
+    "squares\"",
+    "\"math\"",
+    "\"node\"",
+    "\"numbers\""
+  ],
+  "author": "Chimeremeze Ukah <bliss@codebliss.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PoeticBliss/psquare/issues"
+  },
+  "homepage": "https://github.com/PoeticBliss/psquare#readme"
+}
