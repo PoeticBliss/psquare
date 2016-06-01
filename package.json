@@ -1,6 +1,6 @@
 {
   "name": "psquare",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Perfect squares calculator",
   "main": "index.js",
   "scripts": {
