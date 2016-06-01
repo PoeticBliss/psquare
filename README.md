@@ -13,6 +13,7 @@ var psquare = require('psquare');
 Use as:
 ```javascript
 // returns true or false
+// pass the number as argument to the check method
 psquare.check(49);
 ```
 Example would be:
