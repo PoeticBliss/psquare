@@ -1,6 +1,6 @@
 {
   "name": "psquare",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Perfect squares calculator",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PoeticBliss/psquare.git"
+    "url": "git+https://github.com/ghostffcode/psquare.git"
   },
   "keywords": [
     "\"perfect",
@@ -17,10 +17,10 @@
     "\"node\"",
     "\"numbers\""
   ],
-  "author": "Chimeremeze Ukah <bliss@codebliss.me>",
+  "author": "Chimeremeze Ukah <bliss@ghostffco.de>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PoeticBliss/psquare/issues"
+    "url": "https://github.com/ghostffcode/psquare/issues"
   },
-  "homepage": "https://github.com/PoeticBliss/psquare#readme"
+  "homepage": "https://github.com/ghostffcode/psquare#readme"
 }
