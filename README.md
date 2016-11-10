@@ -21,7 +21,7 @@ Example would be:
 ```javascript
 var psquare = require('psquare');
 
-\\ Check if a number is a perfect square or not, returns true or false
+// Check if a number is a perfect square or not, returns true or false
 if (psquare.check(49)) {
  console.log("Is perfect square")
 }
